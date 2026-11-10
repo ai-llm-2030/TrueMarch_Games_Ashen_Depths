@@ -16,6 +16,13 @@
   <img src="assets/screenshot-play.png" alt="Ashen Depths — gameplay" width="820">
 </p>
 
+## More screenshots
+
+<table>
+<tr><td width="50%"><img src="assets/screenshot-class.png" alt="Choose your delver: Warrior, Mage or Rogue"><br><sub>Choose your delver: Warrior, Mage or Rogue</sub></td><td width="50%"><img src="assets/screenshot-map.png" alt="The floor map"><br><sub>The floor map</sub></td></tr>
+<tr><td width="50%"><img src="assets/screenshot-play3.png" alt="Deep in the Bone Galleries"><br><sub>Deep in the Bone Galleries</sub></td><td width="50%"><img src="assets/screenshot-acts.png" alt="The Chronicle: five acts"><br><sub>The Chronicle: five acts</sub></td></tr>
+</table>
+
 ## Controls
 
 | Keys | Action |
